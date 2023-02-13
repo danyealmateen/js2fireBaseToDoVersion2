@@ -1,0 +1,8 @@
+body {
+  background-color: rgb(7, 85, 59);
+}
+
+#paraText {
+  color: rgb(5, 5, 48);
+  border: 3px solid rgb(42, 39, 39);
+}
